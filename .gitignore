@@ -1,0 +1,5 @@
+/DiffEquations/Debug
+/DiffEquations/*.sln
+/DiffEquations/*.vcxproj
+/DiffEquations/*.filters
+/DiffEquations/*.user
