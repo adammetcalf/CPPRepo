@@ -1,0 +1,8 @@
+# Ignore everything in the directory
+CPPRepo/**
+
+# But do not ignore .h and .cpp and .md files in any subdirectory of cpp
+!cpp/**/*.h
+!cpp/**/*.cpp
+!cpp/**/*.md
+!cpp/*.md
